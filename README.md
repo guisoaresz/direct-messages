@@ -1,6 +1,6 @@
 <h1> Direct Messages </h1> <br/>
-Versão do Plugin: 1.0 BETA <br/>
-Versão do Servidor: 1.8.x (todas versões 1.8) <br/> <br/>
+Versão do Plugin: 1.0 BETA. <br/>
+Versão do Servidor: 1.8.x (todas versões 1.8). <br/> <br/>
 <h2> Funcionalidade </h2>
 ➥ Comunicação entre jogadores por mensagens privadas. <br/> <br/>
 <h2> Características: </h2>
